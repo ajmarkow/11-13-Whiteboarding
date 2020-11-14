@@ -1,0 +1,7 @@
+Input: "Jasmine Ann Jones"
+
+Output: "Jasmine%20Ann%20Jones"
+
+fn stringToURL(string) {
+  
+}
